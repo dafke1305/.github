@@ -9,7 +9,7 @@ body:
       value: |
         Please report one problem per issue. English or Dutch is welcome.
         Attach logs from the session where the problem happened. Remove passwords, tokens and private connection details before posting.
-        Private TFU server evidence belongs in the private issue or an approved staff channel.
+        Private evidence belongs in a staff-approved private channel.
   - type: input
     id: mod-version
     attributes:
