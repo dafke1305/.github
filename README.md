@@ -1,19 +1,16 @@
-# TFU-dafke mod support
+# TFU-dafke mod downloads and support
 
-Shared bug-report forms, support guidance and contribution requirements for the Farming Simulator 25 repositories owned by dafke1305.
+Only versions already published on KingMods are offered as downloadable mod ZIPs. Private TFU builds and work in progress are excluded.
 
-Report a problem in the affected mod repository so its version and evidence remain together. See [SUPPORT.md](SUPPORT.md).
+| Mod | Download | Support |
+| --- | --- | --- |
+| Traffic Signs | [1.0.0.1](https://github.com/dafke1305/FS25_TrafficSigns/releases/download/v1.0.0.1/FS25_TrafficSigns.zip) | [Report or ask](https://github.com/dafke1305/FS25_TrafficSigns/issues/new/choose) |
+| GPSLite | [1.3.0.2](https://github.com/dafke1305/FS25_GPSLite/releases/download/v1.3.0.2/FS25_GPSLite.zip) | [Report or ask](https://github.com/dafke1305/FS25_GPSLite/issues/new/choose) |
+| Farmers' Market | [1.0.0.1](https://github.com/dafke1305/FS25_FarmersMarket/releases/download/v1.0.0.1/FS25_FarmersMarket.zip) | [Report or ask](https://github.com/dafke1305/FS25_FarmersMarket/issues/new/choose) |
+| Farmers Market Signs | [1.0.0.0](https://github.com/dafke1305/FS25_FarmersMarketSigns/releases/download/v1.0.0.0/FS25_FarmersMarketSigns.zip) | [Report or ask](https://github.com/dafke1305/FS25_FarmersMarketSigns/issues/new/choose) |
+| Recovery Missions | [1.0.0.2](https://github.com/dafke1305/FS25_RecoveryMission/releases/download/v1.0.0.2/FS25_RecoveryMission.zip) | [Report or ask](https://github.com/dafke1305/FS25_RecoveryMission/issues/new/choose) |
+| Recovery Winch | [1.0.0.2](https://github.com/dafke1305/FS25_RecoveryWinch/releases/download/v1.0.0.2/FS25_RecoveryWinch.zip) | [Report or ask](https://github.com/dafke1305/FS25_RecoveryWinch/issues/new/choose) |
+| Messenger | [1.0.2.3](https://github.com/dafke1305/FS25_Messenger/releases/download/v1.0.2.3/FS25_Messenger.zip) | [Report or ask](https://github.com/dafke1305/FS25_Messenger/issues/new/choose) |
+| Transport Contracts / Transport Missions | [1.0.0.9 — Beta](https://github.com/dafke1305/FS25_TransportContracts/releases/download/v1.0.0.9/FS25_TransportContracts.zip) | [Report or ask](https://github.com/dafke1305/FS25_TransportContracts/issues/new/choose) |
 
-## Choose your mod
-
-| Mod | Support |
-| --- | --- |
-| Traffic Signs | [Report a problem or ask a question](https://github.com/dafke1305/FS25_TrafficSigns/issues/new/choose) |
-| GPSLite | [Report a problem or ask a question](https://github.com/dafke1305/FS25_GPSLite/issues/new/choose) |
-| Farmers' Market | [Report a problem or ask a question](https://github.com/dafke1305/FS25_FarmersMarket/issues/new/choose) |
-| Farmers Market Signs | [Report a problem or ask a question](https://github.com/dafke1305/FS25_FarmersMarketSigns/issues/new/choose) |
-| Recovery Missions | [Report a problem or ask a question](https://github.com/dafke1305/FS25_RecoveryMission/issues/new/choose) |
-| Recovery Winch | [Report a problem or ask a question](https://github.com/dafke1305/FS25_RecoveryWinch/issues/new/choose) |
-| Messenger | [Report a problem or ask a question](https://github.com/dafke1305/FS25_Messenger/issues/new/choose) |
-
-These public repositories contain support documents only. Mod source, TFU server builds and work in progress remain private. Use the original KingMods download linked on each mod's support page.
+For reporting requirements and privacy guidance, see [SUPPORT.md](SUPPORT.md).
