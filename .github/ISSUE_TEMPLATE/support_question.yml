@@ -1,0 +1,19 @@
+name: Support question
+description: Ask about installation, controls or expected behaviour.
+title: "[Support]: "
+labels: [question]
+assignees: [dafke1305]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Mod name/version, FS25 version and play mode
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question and what you have already tried
+      description: Include a relevant screenshot if it helps. For an error or crash, use the bug report form with session logs instead.
+    validations:
+      required: true
