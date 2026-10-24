@@ -1,0 +1,78 @@
+name: Bug report
+description: Report a reproducible Farming Simulator 25 mod problem.
+title: "[Bug]: "
+labels: [bug]
+assignees: [dafke1305]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please report one problem per issue. English or Dutch is welcome.
+        Attach logs from the session where the problem happened. Remove passwords, tokens and private connection details before posting.
+        Private TFU server evidence belongs in the private issue or an approved staff channel.
+  - type: input
+    id: mod-version
+    attributes:
+      label: Mod name, version and ZIP filename
+      placeholder: "GPSLite 1.3.0.2, FS25_GPSLite.zip; mention other copies or editions"
+    validations:
+      required: true
+  - type: input
+    id: game-map
+    attributes:
+      label: FS25 game version, map name and map version
+    validations:
+      required: true
+  - type: dropdown
+    id: play-mode
+    attributes:
+      label: Play mode
+      options:
+        - Singleplayer
+        - Hosted multiplayer - host
+        - Hosted multiplayer - joining client
+        - Dedicated server - client
+        - Dedicated server - server/startup
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Affected equipment, settings and other relevant mods
+      description: Include vehicle/implement names and versions, relevant integrations, operating system and host/provider where relevant. Do not post server passwords or private IP addresses.
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Describe the starting situation, numbered actions, how often it happens and the approximate incident time. State what you have already tried and its actual result.
+      placeholder: |
+        1. Load ...
+        2. Attach / open / select ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Client log.txt and dedicated-server server.log
+      description: Attach the complete client log.txt after the incident; for a dedicated-server issue also attach server.log from the same session. Attach as text files, or use a ZIP if needed. If a log is unavailable, explain why. The usual client log location is Documents/My Games/FarmingSimulator2025/log.txt.
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or a short video
+      description: Useful for physics, missing UI, placement or interaction problems. Show the starting setup, F1 actions where relevant and the failed action; include a timestamp for longer videos. You can attach files here or add a viewable link. Avoid showing private chats or credentials.
+  - type: textarea
+    id: persistence
+    attributes:
+      label: Save/restart, multiplayer and existing issue details
+      description: If relevant, state whether saving succeeded, whether the issue survives a restart, which players/farms are affected and link related issues. Do not risk an original savegame to perform a test; keep a backup. Do not claim tests you have not performed.
