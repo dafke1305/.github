@@ -14,3 +14,16 @@ Only versions already published on KingMods are offered as downloadable mod ZIPs
 | Transport Contracts / Transport Missions | [1.0.0.9 — Beta](https://github.com/dafke1305/FS25_TransportContracts/releases/download/v1.0.0.9/FS25_TransportContracts.zip) | [Report or ask](https://github.com/dafke1305/FS25_TransportContracts/issues/new/choose) |
 
 For reporting requirements and privacy guidance, see [SUPPORT.md](SUPPORT.md).
+
+## Handleidingen / User guides
+
+| Mod | Nederlands | English |
+| --- | --- | --- |
+| Traffic Signs | [Handleiding](https://github.com/dafke1305/FS25_TrafficSigns/blob/main/HANDLEIDING.md) | [User guide](https://github.com/dafke1305/FS25_TrafficSigns/blob/main/USER_GUIDE.md) |
+| GPSLite | [Handleiding](https://github.com/dafke1305/FS25_GPSLite/blob/main/HANDLEIDING.md) | [User guide](https://github.com/dafke1305/FS25_GPSLite/blob/main/USER_GUIDE.md) |
+| Farmers' Market | [Handleiding](https://github.com/dafke1305/FS25_FarmersMarket/blob/main/HANDLEIDING.md) | [User guide](https://github.com/dafke1305/FS25_FarmersMarket/blob/main/USER_GUIDE.md) |
+| Farmers Market Signs | [Handleiding](https://github.com/dafke1305/FS25_FarmersMarketSigns/blob/main/HANDLEIDING.md) | [User guide](https://github.com/dafke1305/FS25_FarmersMarketSigns/blob/main/USER_GUIDE.md) |
+| Recovery Missions | [Handleiding](https://github.com/dafke1305/FS25_RecoveryMission/blob/main/HANDLEIDING.md) | [User guide](https://github.com/dafke1305/FS25_RecoveryMission/blob/main/USER_GUIDE.md) |
+| Recovery Winch | [Handleiding](https://github.com/dafke1305/FS25_RecoveryWinch/blob/main/HANDLEIDING.md) | [User guide](https://github.com/dafke1305/FS25_RecoveryWinch/blob/main/USER_GUIDE.md) |
+| Messenger | [Handleiding](https://github.com/dafke1305/FS25_Messenger/blob/main/HANDLEIDING.md) | [User guide](https://github.com/dafke1305/FS25_Messenger/blob/main/USER_GUIDE.md) |
+| Transport Contracts / Transport Missions | [Handleiding](https://github.com/dafke1305/FS25_TransportContracts/blob/main/HANDLEIDING.md) | [User guide](https://github.com/dafke1305/FS25_TransportContracts/blob/main/USER_GUIDE.md) |
